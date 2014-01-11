@@ -1,6 +1,6 @@
 from PyCryptsy import PyCryptsy
 
-secret_key = "49976dfba78486e0ac6e69efb7fa12d83bbc5b1bbd3bcc9ad14289602329b037640aa9a09d27967a"
+secret_key = #add secret key
 public_key = "fdb5b5004245daf95e9d5f969dd8cc1b342c25b5"
 api = PyCryptsy(public_key,secret_key)
 
